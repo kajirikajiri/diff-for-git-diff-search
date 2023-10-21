@@ -8,5 +8,5 @@ ddd
 
 eee
 
-function addUser() {
+function addUsers() {
 }
