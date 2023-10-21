@@ -7,3 +7,6 @@ ccc
 ddd
 
 eee
+
+function addUser() {
+}
